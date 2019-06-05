@@ -1,0 +1,5 @@
+.vscode
+
+# ignore din and obj folders
+bin/
+obj/
