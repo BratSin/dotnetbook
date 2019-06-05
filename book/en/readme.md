@@ -30,9 +30,9 @@
           2. Isolation
           3. Security model
       2. Exceptional situations
-          1. Introduction to exceptional situations
-          2. Architecture
-          3. Exceptions events
+          1. [Introduction to exceptional situations](./ExceptionalFlow/1-Exceptions-Intro.md)
+          2. [Architecture](./ExceptionalFlow/2-Exceptions-Architecture.md)
+          3. [Exceptions events](./ExceptionalFlow/3-Exceptions-Events.md)
           4. Types of exceptional situations
 
 # License
